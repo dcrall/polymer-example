@@ -14,3 +14,10 @@ If necessary, you can installl serve with: `npm install -g serve`
 ### Access the site on port 3000.
 
 		http://localhost:3000
+		
+### Links
+
+* [webcomponents.org](http://webcomponents.org) 
+* [Polymer](https://www.polymer-project.org) 
+* [Polymer in 10 Minutes](https://www.polymer-project.org/docs/start/creatingelements.html) 
+* [Google Design](http://www.google.com/design/) 
